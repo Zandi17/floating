@@ -1,0 +1,25 @@
+.color {
+	width: 600px;
+	border: 1px solid black;
+}
+
+.bloque1{
+	height: 150px;
+	width: 150px;
+	background: #FFFF00;
+	
+}
+
+.bloque2{
+	height: 150px;
+	width: 150px;
+	background: #3A81BA;
+	
+}
+
+.bloque3{
+	height: 150px;
+	width: 150px;
+	background: #ED2251;
+	
+}

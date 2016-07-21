@@ -1,0 +1,27 @@
+.color {
+	width: 600px;
+	border: 1px solid black;
+	overflow: auto;
+}
+
+.bloque1{
+	height: 150px;
+	width: 150px;
+	background: #FFFF00;
+	float: right;
+}
+.bloque2{
+	height: 150px;
+	width: 150px;
+	background: #3A81BA;
+	float: right;
+}
+.bloque3{
+	height: 150px;
+	width: 150px;
+	background: #ED2251;
+	float: right;
+}
+.clear {
+	overflow:auto;
+}
