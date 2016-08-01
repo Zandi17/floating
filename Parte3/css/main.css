@@ -4,25 +4,20 @@
 	border: 1px solid black;
 }
 
-.bloque1{
+.bloque{
 	height: 150px;
 	width: 150px;
+	float: right;
+}
+
+.amarillo{
 	background: #FFFF00;
-	float: right;
-	
 }
 
-.bloque2{
-	height: 150px;
-	width: 150px;
+.azul{
 	background: #3A81BA;
-	float: right;
-	
 }
 
-.bloque3{
-	height: 150px;
-	width: 150px;
+.rojo{
 	background: #ED2251;
-	float: right;
 }

@@ -1,28 +1,21 @@
 .color {
-	
 	width: 600px;
 	border: 1px solid black;
 }
 
-.bloque1{
+.bloque{
 	height: 150px;
 	width: 150px;
+	float: left;	
+}
+
+.amarillo{
 	background: #FFFF00;
-	float: left;
-	
 }
 
-.bloque2{
-	height: 150px;
-	width: 150px;
+.azul{
 	background: #3A81BA;
-	float: left;
-	
 }
-
-.bloque3{
-	height: 150px;
-	width: 150px;
+.rojo{
 	background: #ED2251;
-	float: left;
 }
